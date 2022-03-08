@@ -2,7 +2,8 @@
 Quotation Mark
 
 ## Features
-- [x] 회원가입
+- [x] 회원 가입
+- [x] 회원 정보 변경
 - [x] 로그인, 로그아웃
 - [x] 게시글 작성/수정/삭제
 - [x] 댓글 작성/수정/삭제
@@ -13,6 +14,13 @@ Quotation Mark
 2. board : 게시글 관리
 3. comment : 댓글 관리
 4. myfile : 파일 관리
+
+## Web Hacking - Security settings complete
+- [x] XSS
+- [x] CSRF
+- [x] File Upload
+- [x] File Download
+- [x] Parameter Manipulation
 
 ## Hosting
 [http://syb0228.cafe24.com]
