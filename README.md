@@ -23,5 +23,8 @@ Quotation Mark
 - [x] File Download
 - [x] Parameter Manipulation
 
+## Project explanation
+[https://reliable-hardboard-1e3.notion.site/Project-8b6026791ffe44b7b335ec447c9a8739]
+
 ## Hosting
 [http://syb0228.cafe24.com]
